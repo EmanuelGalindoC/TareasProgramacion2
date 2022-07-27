@@ -1,4 +1,4 @@
-package Tarea2;
+package src.Tarea2;
 import java.util.List;
 
 public interface MysteryColorAnalizer {

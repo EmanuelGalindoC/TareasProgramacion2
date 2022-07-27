@@ -1,4 +1,4 @@
-package Tarea2;
+package src.Tarea2;
 
 public enum Color {
     RED, GREEN, BLUE

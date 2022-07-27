@@ -1,8 +1,6 @@
-package Tarea2;
+package src.Tarea2;
 
 import java.util.List;
-
-import static Tarea2.Color.*;
 
 public class MysteryColorAnalyzerImpl implements MysteryColorAnalizer{
     @Override
